@@ -1,7 +1,4 @@
 # Form validation with RegExp
-## Project links
-- [https://github.com/RA404/forms](https://github.com/RA404/forms)
-- https://github.com/RA404/forms/tree/gh-pages
 ## About
 Form validation with RegExp
 ## How to run
