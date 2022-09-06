@@ -2,7 +2,7 @@
 ## About
 Form validation with RegExp
 ## How to run
-- git copy this project
+- git clone this project
 - open index.html
 - try filling out the form fields
 ## Technology
